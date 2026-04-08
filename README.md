@@ -28,7 +28,6 @@ This project is an excellent starting point for beginners interested in **Defens
 
 By experimenting with this system, beginners can move from simply running security tools to building their own defensive infrastructure.
 
----
 **Disclaimer**: This project is for educational and authorized research purposes only. Ensure you have explicit permission before monitoring network traffic in any environment.
 
 #-------------------------------------------------------------------------------------------------------->>>A_H_M_E_D<<<-------------------------------------------------------------------------------------------------------#
